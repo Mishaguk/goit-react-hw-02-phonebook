@@ -1,0 +1,3 @@
+	{ id: shortid.generate(), name: 'Rosie Simpon' },
+			{ id: shortid.generate(), name: 'Hermione Kline' },
+			{ id: shortid.generate(), name: 'Eden Clements' },

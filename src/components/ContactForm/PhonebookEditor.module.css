@@ -1,0 +1,12 @@
+.PhonebookEditor {
+	border: 2px solid black;
+	width: 300px;
+	height: 220px;
+}
+.PhonebookEditorButton {
+	box-shadow: 0 0 5px rgba(8, 8, 8, 0.5);
+	margin-left: 30px;
+	position: absolute;
+	top: 20em;
+	left: 2em;
+}
